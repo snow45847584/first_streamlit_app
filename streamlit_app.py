@@ -65,7 +65,7 @@ if streamlit.button('Get Fruit Load List'):
 
 # 2 New section to display fruitvice api response 
 
-streamlit.write('Thanks for adding ', add_my_fruit)
+#streamlit.write('Thanks for adding ', add_my_fruit)
 
 
 def insert_row_snowflake(new_fruit):
